@@ -26,4 +26,4 @@ creciendo, y será complejo mantener la integridad entre los datos, impidiendo r
   <b>Solución:</b>
 <br>Dados los antecedentes anteriores, se desarrolló una solución tecnológica que cubre los procesos de negocio descritos y propone una mejora en la gestión, el control, la seguridad, y 
 disponibilidad de información para el negocio y sus clientes. El sistema permite presentar productos, tomar pedidos y hacer seguimiento de estos y la gestión de clientes. Además, el sistema genera
-reportes y estadísticas que ayudan a tomar decisiones y mejora el rendimiento de la empresa, considerando la cantidad de clientes, y la demanda de éstos.ositivos móviles.
+reportes y estadísticas que ayudan a tomar decisiones y mejora el rendimiento de la empresa, considerando la cantidad de clientes, y la demanda de éstos en dispositivos móviles.
